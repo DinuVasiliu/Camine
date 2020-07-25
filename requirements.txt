@@ -2,7 +2,6 @@ geopandas
 matplotlib
 descartes
 pandas 
-json
 bokeh
 ipywidgets 
 IPython
